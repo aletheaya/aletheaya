@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aletheaya
-- 🌱 I just started learning about computer and network engineering 
+- 🌱 I'm just started learning about computer and network engineering 
 
 
 <!---
